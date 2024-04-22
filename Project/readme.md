@@ -1,1 +1,0 @@
-Dataset link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist/download?datasetVersionNumber=1
